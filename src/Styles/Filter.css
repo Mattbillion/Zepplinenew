@@ -1,0 +1,21 @@
+.Filter-container ul {
+  display: flex;
+  gap: 42px;
+  margin: 120px 520px 0 520px;
+  padding: 0;
+}
+
+.Filter-container li {
+  list-style: none;
+  font-size: 18px;
+  font-weight: 700;
+  color: #424242;
+}
+
+.Filter-container a:hover {
+  color: #d05270;
+  border-bottom: 1px solid #d05270;
+  padding-bottom: 4px;
+  transition: 250ms ease;
+  font-size: 14px;
+}

@@ -1,0 +1,48 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+}
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 120px;
+  margin-left: 520px;
+  margin-right: 520px;
+  gap: 48px;
+}
+
+.header {
+  width: 100%;
+}
+
+.illustration {
+  width: 400px;
+}
+
+.social-links {
+  display: flex;
+  gap: 24px;
+}
+
+.Blog-posts {
+  font-size: 52px;
+  font-weight: 700;
+  color: #d05270;
+  margin: 0;
+}
+
+.Sub {
+  font-size: 52px;
+  font-weight: 400;
+  color: #424242;
+  margin-top: 12px;
+}
+
+.Description {
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0;
+  margin-bottom: 32px;
+  max-width: 620px;
+}

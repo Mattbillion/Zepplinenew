@@ -1,0 +1,15 @@
+.Post-map {
+  gap: 42px;
+  margin-top: 64px;
+  margin-left: 520px;
+  margin-right: 520px;
+  margin-bottom: 72px;
+  width: 1350px;
+}
+
+.map-wrap {
+  max-width: 590px;
+  display: inline-flex;
+  flex-flow: column wrap;
+  margin: 0 10px 72px 10px;
+}

@@ -1,0 +1,29 @@
+.published-date {
+  font-size: 14px;
+  color: #424242;
+  margin-bottom: 14px;
+  margin-top: 14px;
+}
+
+.title {
+  font-size: 24px;
+  color: #d05270;
+  margin-bottom: 12px;
+}
+
+.description {
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 32px;
+}
+
+.read-btn a {
+  font-size: 18px;
+  color: #d05270;
+  text-decoration: underline;
+}
+
+.top img {
+  width: 100%;
+  height: 420px;
+}
